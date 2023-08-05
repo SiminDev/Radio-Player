@@ -1,13 +1,13 @@
-const Display = () => {
+const Display = ({ currentRadio, audioRef }) => {
   return (
     <div className="display_container">
-      <audio></audio>
+      <audio src={currentRadio.url} ref={audioRef} />
       <figure className="cover">
-        <img />
+        <img src={currentRadio.cover} />
       </figure>
       <div className="radio_info">
-        <p className="name"></p>
-        <p className="frequency"></p>
+        <p className="name">{currentRadio.name}</p>
+        <p className="frequency">{currentRadio.frequency}</p>
       </div>
     </div>
   );
