@@ -1,0 +1,251 @@
+[
+  {
+    "id": "1",
+    "name": "Dengi Kurdsat",
+    "url": "http://uk3.internet-radio.com:8011/stream?type=http&nocache=86",
+    "cover": "assets/images/1.jpg",
+    "frequency": "96.3"
+  },
+  {
+    "id": "37",
+    "name": "Like FM",
+    "url": "  http://stream-152.zeno.fm/xd6bmqevy7zuv?zs=gDsEZQAiRIOV-GaQgnGqKQ",
+    "cover": "assets/images/4.jpg",
+    "frequency": "96.9"
+  },
+  {
+    "id": "2",
+    "name": "Firat FM",
+    "url": "http://yayin.firatfm.com:3065/stream/1/",
+    "cover": "assets/images/2.jpg",
+    "frequency": "87.3"
+  },
+
+  {
+    "id": "3",
+    "name": "ONE FM",
+    "url": "http://stream.zenolive.com/kxbs5p6e8ueuv",
+    "cover": "assets/images/3.jpg",
+    "frequency": 93.7
+  },
+
+  {
+    "id": "4",
+    "name": "Rudaw TV Audio",
+    "url": "https://svs.itworkscdn.net/rudawlive/rudawtv_audio/chunks.m3u8",
+    "cover": "assets/images/37.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "5",
+    "name": "Rudaw Radio",
+    "url": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "cover": "assets/images/5.jpg",
+    "frequency": "93.7"
+  },
+
+  {
+    "id": "6",
+    "name": "M Radio",
+    "url": "https://usa13.fastcast4u.com/proxy/mradio02?mp=/1",
+    "cover": "assets/images/6.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "7",
+    "name": "Kurd FM",
+    "url": "http://radio.kurdfm.com:4747/;",
+    "cover": "assets/images/7.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "8",
+    "name": "Rebaz FM",
+    "url": "http://rasti.out.airtime.pro:8000/rasti_a",
+    "cover": "assets/images/8.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "9",
+    "name": "Denge Zelal radyo",
+    "url": "https://ssl120.radyotelekom.com.tr/8546/stream",
+    "cover": "assets/images/9.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "10",
+    "name": "Denge Cudi",
+    "url": "https://denge-cudi.stream.laut.fm/denge-cudi",
+    "cover": "assets/images/10.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "11",
+    "name": "Voa Radio",
+    "url": "http://voa-36.akacast.akamaistream.net/7/421/322048/v1/ibb.akacast.akamaistream.net/voa-36.m3u",
+    "cover": "assets/images/11.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "12",
+    "name": "Amed Fm",
+    "url": "http://radyo.amedradyotv.net:8000/listen.mp3",
+    "cover": "assets/images/12.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "13",
+    "name": "Denge Qamishlo",
+    "url": "http://stream.laut.fm/dengeqamishlo",
+    "cover": "assets/images/11.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "14",
+    "name": "Arta.Fm",
+    "url": "http://edge.mixlr.com/channel/qtgru",
+    "cover": "assets/images/14.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "15",
+    "name": "Radyo-Hevi",
+    "url": "https://anadolu.liderhost.com.tr:10939/;",
+    "cover": "assets/images/15.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "16",
+    "name": "Med Radyo",
+    "url": "http://medradyo.kesintisizyayin.com:8062/;",
+    "cover": "assets/images/16.jpg",
+    "frequency": "93.7"
+  },
+
+  {
+    "id": "18",
+    "name": "Waar Radio",
+    "url": "https://c2.radioboss.fm:18564/stream",
+    "cover": "assets/images/18.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "19",
+    "name": "Kurdistan 24 Radio",
+    "url": "https://streams.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+    "cover": "assets/images/19.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "20",
+    "name": "Mezopotamya Radyo",
+    "url": "http://yayin.liderhost.net:9404/stream",
+    "cover": "assets/images/20.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "21",
+    "name": "Hakkari Fm",
+    "url": "https://radyo.slmbilisim.net/8004/stream;",
+    "cover": "assets/images/21.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "22",
+    "name": "Radyo Munzur Dersim",
+    "url": "http://yayin1.yayindakiler.com:3002/;audio.mp3",
+    "cover": "assets/images/23.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "24",
+    "name": "Cemre Fm Mardin",
+    "url": "http://yayin1.canliyayin.org:8024/;stream.mp3",
+    "cover": "assets/images/24.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "25",
+    "name": "Batman Süper FM",
+    "url": "http://yayin2.yayindakiler.com:4090/;",
+    "cover": "assets/images/25.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "26",
+    "name": "Radio Kewra",
+    "url": "http://198.7.59.28:8146/;",
+    "cover": "assets/images/26.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "27",
+    "name": "Radio ONE FM - ZAROK",
+    "url": "http://stream.zeno.fm/bswfvqh18wquv",
+    "cover": "assets/images/27.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "28",
+    "name": "Speda FM",
+    "url": "http://siliconvalley.servep2p.com:8000/spedafm",
+    "cover": "assets/images/28.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "29",
+    "name": "M Radio FM 105.5",
+    "url": "http://usa13.fastcast4u.com:5908/stream",
+    "cover": "assets/images/29.jpg",
+    "frequency": "105.5"
+  },
+  {
+    "id": "30",
+    "name": "Kurd1 Radyo",
+    "url": "https://www.radioking.com/play/kurd1-radyo",
+    "cover": "assets/images/30.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "31",
+    "name": "Radio Havin",
+    "url": "http://radyolar.yayindinle.net:7764/;stream.mp3",
+    "cover": "assets/images/31.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "32",
+    "name": "Jeyani Nwe",
+    "url": "https://s2.radio.co/sd3c7f8539/listen",
+    "cover": "assets/images/32.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "33",
+    "name": "Zerguwan-Fm",
+    "url": "https://zerguwanfm.kesintisizyayin.com:7366/;",
+    "cover": "assets/images/33.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "34",
+    "name": "Radyo Gülistan",
+    "url": "https://anadolu.liderhost.com.tr:10967/;",
+    "cover": "assets/images/34.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "35",
+    "name": "Jesus Coming FM",
+    "url": "http://live.jesuscomingfm.com:8338/;",
+    "cover": "assets/images/35.jpg",
+    "frequency": "93.7"
+  },
+  {
+    "id": "36",
+    "name": "Orkes FM",
+    "url": "https://orks-rojavaradio.radioca.st/stream?type=http&nocache=6",
+    "cover": "assets/images/36.jpg",
+    "frequency": "93.7"
+  }
+]
