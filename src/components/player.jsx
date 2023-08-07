@@ -58,6 +58,16 @@ const Player = () => {
     }, 300);
   };
 
+  const onSelectedRadio = (radio, index) => {
+    setIsPlaying(false);
+    setRadioIndex(index);
+    setCurrentRadio(radios[index]);
+    audioRef.current.src = radio.src;
+    setTimeout(() => {
+      setIsPlaying(true);
+    }, 300);
+  };
+
   return (
     <div className="container">
       <Display {...{ currentRadio, audioRef }} />
@@ -72,6 +82,7 @@ const Player = () => {
       <List
         {...{
           radios,
+          onSelectedRadio,
         }}
       />
     </div>
