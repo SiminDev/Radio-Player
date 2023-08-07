@@ -13,8 +13,49 @@ const Player = () => {
   const [isPlaying, setIsPlaying] = useState(false);
   const audioRef = useRef();
 
+  useEffect(() => {
+    if (isPlaying) {
+      audioRef.current.play();
+    } else {
+      audioRef.current.pause();
+    }
+  });
+
   const togglePlayPause = () => {
     setIsPlaying((prev) => !prev);
+  };
+
+  const handlePrevious = () => {
+    setIsPlaying(false);
+
+    if (radioIndex === 0) {
+      let lastRadioIndex = radioIndex.length - 1;
+      setRadioIndex(lastRadioIndex);
+      setCurrentRadio(radios[lastRadioIndex]);
+    } else {
+      setRadioIndex((prev) => prev - 1);
+      setCurrentRadio(radios[radioIndex - 1]);
+    }
+
+    setTimeout(() => {
+      setIsPlaying(true);
+    }, 300);
+  };
+
+  const handleNext = () => {
+    setIsPlaying(false);
+
+    if (radioIndex > radioIndex.length - 1) {
+      setRadioIndex(0);
+      setCurrentRadio(radios[0]);
+    } else {
+      setRadioIndex((prev) => prev + 1);
+      setCurrentRadio(radios[radioIndex + 1]);
+    }
+
+    setTimeout(() => {
+      setIsPlaying(true);
+    }, 300);
   };
 
   return (
@@ -24,6 +65,8 @@ const Player = () => {
         {...{
           isPlaying,
           togglePlayPause,
+          handleNext,
+          handlePrevious,
         }}
       />
       <List
