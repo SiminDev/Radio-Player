@@ -15,7 +15,19 @@ const Player = () => {
 
   useEffect(() => {
     if (isPlaying) {
-      audioRef.current.play();
+      let playPromise = audioRef.current.play();
+
+      if (playPromise !== undefined) {
+        playPromise
+          .then(() => {
+            audioRef.current.play();
+          })
+          .catch((err) => {
+            console.log(err);
+          });
+      } else {
+        audioRef.current.pause();
+      }
     } else {
       audioRef.current.pause();
     }
