@@ -1,5 +1,6 @@
 {
   "name": "kurdish-radio-player",
+  "homepage": "http://SiminDev.github.io/Radio-Player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
