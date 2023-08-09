@@ -1,7 +1,7 @@
 {
   "name": "kurdish-radio-player",
-  "homepage": "http://SiminDev.github.io/Radio-Player",
   "version": "0.1.0",
+  "homepage": "https://SiminDev.github.io/Radio-Player",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
